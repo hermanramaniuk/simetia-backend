@@ -1,24 +1,4 @@
-# API do projeto Retomada !['Logo Retomada'](https://raw.githubusercontent.com/projetos-faculdade/retomada-app/master/assets/logo2.png)
-
-O projeto Retomada foi criado com o intuito de auxiliar escolas que estão no momento retorno às aulas durante a pandemia, ajudando-as a acompanhar atividades, alunos e funcionários, a fim de que possam tomar decisões estratégicas.
-Este repositório contém a API REST deste projeto.
-
-
-## :rocket: Ferramentas
-As tecnologias listadas abaixo foram utilizadas no projeto.
-- [Node.js](https://nodejs.org/en/)
-- [Typescript](https://www.typescriptlang.org)
-- [Express](https://expressjs.com/pt-br/)
-- [MySQL](https://www.mysql.com)
-- [Moment.js](https://momentjs.com)
-- [Knex](http://knexjs.org)
-- [Postgresql](https://www.postgresql.org)
-
-## :information_source: Instruções para clone
-### Configuração da API
-```git
-$ git clone https://github.com/projeto-retomada/retomada-services.git
-
+### Config
 $ npm install
 
 $ npm knex:migrate
@@ -56,4 +36,4 @@ $ npm start
     "organization_id" : 1
 }
 
-Made with :heart: by Luis, Miriéle and Guilherme
+Made with :heart: by Herman Ramaniuk
